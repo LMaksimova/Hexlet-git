@@ -18,6 +18,10 @@ node_modules
 # например, /db/something/lala.sqlite3
 /db/*.sqlite3
 
+# Игнорируется файл INFO.md
+INFO.md
+
+
 # игнорировать все .txt файлы в каталоге doc/
 # на всех уровнях вложенности
 doc/**/*.txt
